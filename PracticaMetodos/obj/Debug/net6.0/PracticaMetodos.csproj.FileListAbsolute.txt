@@ -1,0 +1,15 @@
+C:\Users\Ian\source\repos\PracticaMetodos\bin\Debug\net6.0\PracticaMetodos.exe
+C:\Users\Ian\source\repos\PracticaMetodos\bin\Debug\net6.0\PracticaMetodos.deps.json
+C:\Users\Ian\source\repos\PracticaMetodos\bin\Debug\net6.0\PracticaMetodos.runtimeconfig.json
+C:\Users\Ian\source\repos\PracticaMetodos\bin\Debug\net6.0\PracticaMetodos.dll
+C:\Users\Ian\source\repos\PracticaMetodos\bin\Debug\net6.0\PracticaMetodos.pdb
+C:\Users\Ian\source\repos\PracticaMetodos\obj\Debug\net6.0\PracticaMetodos.csproj.AssemblyReference.cache
+C:\Users\Ian\source\repos\PracticaMetodos\obj\Debug\net6.0\PracticaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\source\repos\PracticaMetodos\obj\Debug\net6.0\PracticaMetodos.AssemblyInfoInputs.cache
+C:\Users\Ian\source\repos\PracticaMetodos\obj\Debug\net6.0\PracticaMetodos.AssemblyInfo.cs
+C:\Users\Ian\source\repos\PracticaMetodos\obj\Debug\net6.0\PracticaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\PracticaMetodos\obj\Debug\net6.0\PracticaMetodos.dll
+C:\Users\Ian\source\repos\PracticaMetodos\obj\Debug\net6.0\refint\PracticaMetodos.dll
+C:\Users\Ian\source\repos\PracticaMetodos\obj\Debug\net6.0\PracticaMetodos.pdb
+C:\Users\Ian\source\repos\PracticaMetodos\obj\Debug\net6.0\PracticaMetodos.genruntimeconfig.cache
+C:\Users\Ian\source\repos\PracticaMetodos\obj\Debug\net6.0\ref\PracticaMetodos.dll
