@@ -1,0 +1,15 @@
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\bin\Debug\net6.0\BuclesWhile.exe
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\bin\Debug\net6.0\BuclesWhile.deps.json
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\bin\Debug\net6.0\BuclesWhile.runtimeconfig.json
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\bin\Debug\net6.0\BuclesWhile.dll
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\bin\Debug\net6.0\BuclesWhile.pdb
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\obj\Debug\net6.0\BuclesWhile.csproj.AssemblyReference.cache
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\obj\Debug\net6.0\BuclesWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\obj\Debug\net6.0\BuclesWhile.AssemblyInfoInputs.cache
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\obj\Debug\net6.0\BuclesWhile.AssemblyInfo.cs
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\obj\Debug\net6.0\BuclesWhile.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\obj\Debug\net6.0\BuclesWhile.dll
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\obj\Debug\net6.0\refint\BuclesWhile.dll
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\obj\Debug\net6.0\BuclesWhile.pdb
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\obj\Debug\net6.0\BuclesWhile.genruntimeconfig.cache
+C:\Users\Ian\Documents\development\CursoCSharp\BuclesWhile\obj\Debug\net6.0\ref\BuclesWhile.dll
