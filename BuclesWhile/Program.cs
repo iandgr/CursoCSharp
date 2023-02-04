@@ -29,6 +29,12 @@
         intentos++;
       }
       Console.WriteLine($"Adivinaste el numero en {intentos} intentos");
+      // DO WHILE (se ejecuta al menos una vez)
+      int z = 10;
+      do {
+        Console.WriteLine($"impresion {z}");
+        z++;
+      } while(z < 10);
     }
   }
 }
